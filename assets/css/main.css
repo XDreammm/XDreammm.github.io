@@ -3694,7 +3694,7 @@
 		-webkit-justify-content: center;
 		-ms-justify-content: center;
 		justify-content: center;
-		background-image: url("../../images/banner.png");
+		background-image: url("../../images/banner.jpg");
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -3784,7 +3784,7 @@
 			transition-delay: 1.25s;
 			content: '';
 			display: block;
-			background-color: rgba(0, 0, 0, 0.479);
+			background-color: rgba(0, 0, 0, 0);
 			height: 100%;
 			left: 0;
 			opacity: 0.65;
