@@ -1801,11 +1801,11 @@
 	}
 
 	input, select, textarea {
-		color: #000;
+		color: #FFF;
 	}
 
 	a {
-		color: #999999;
+		color: #FFF;
 	}
 
 		a:hover {
@@ -1830,7 +1830,7 @@
 	}
 
 	hr {
-		border-bottom-color: rgba(0, 0, 0, 0.1);
+		border-bottom-color: #FFF(0, 0, 0, 0.1);
 	}
 
 /* Box */
