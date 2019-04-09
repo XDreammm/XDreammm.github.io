@@ -15,7 +15,7 @@
 		padding: 0;
 		border: 0;
 		font-size: 100%;
-		font: inherit;
+		font: sans-serif;
 		vertical-align: baseline;
 	}
 
@@ -1586,11 +1586,11 @@
 
 	body {
 		background-color: #fff;
-		color: #999999;
+		color: #ffffff;
 	}
 
 	body, input, select, textarea {
-		font-family: "Scope One", serif;
+		font-family: "sans-serif";
 		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -1663,7 +1663,7 @@
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
+			color: #FFF;
 			text-decoration: none;
 		}
 
@@ -1754,7 +1754,7 @@
 	code {
 		border-radius: 4px;
 		border: solid 1px;
-		font-family: "Courier New", monospace;
+		font-family: "Microsoft YaHei", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -1762,7 +1762,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: "Microsoft YaHei", monospace;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
@@ -1817,7 +1817,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000;
+		color: #FFF;
 	}
 
 	blockquote {
@@ -2245,7 +2245,7 @@
 		.select-wrapper:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: "Microsoft YaHei";
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -2309,7 +2309,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: Microsoft YaHei;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2444,7 +2444,7 @@
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
+			font-family: Microsoft YaHei;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
@@ -3465,7 +3465,7 @@
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family: Microsoft YaHei;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -3646,7 +3646,7 @@
 				content: "";
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: Microsoft YaHei;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
